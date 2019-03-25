@@ -1,4 +1,4 @@
-# Project Title
+# docker-compose vsftpd
 
 A docker compose file to create vstfpd server using fauria/vsftpd image
 
